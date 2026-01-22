@@ -14,7 +14,7 @@ I’m currently developing apps for iOS, and my next goal is to expand into Andr
 - 💬 Ask me about anything. I enjoy helping others, exchanging ideas, and learning from different perspectives.<br>
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Contact & Socials:
-  - <a href="mirkitisxd@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://github.com/migixd"><img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="www.linkedin.com/in/mirka-giselle-gutiérrez-uriarte-836ab434b"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  - <a href="mailto:mirkitisxd@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://github.com/migixd"><img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/mirka-giselle-gutiérrez-uriarte-836ab434b"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
 ## 🛠 &nbsp;Tech Stack
 
