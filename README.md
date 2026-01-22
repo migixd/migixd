@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm Mirka Gutierrez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Mirka Gutierrez </b><img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ3dGtvNzJwNjR6Zmgydnd1c3hudDVqY2tuZnQ5NG9obWd1dTZoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3pTZ5pUYLUHh6/giphy.gif width="80"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIxMzRjcTkwd2RmYzZscHNnbzg0NGZ6dGZjazRjMjRiM3FoZnpseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xz2Bw12fe9iyG06v6/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZjNTI2MG1taTJ4eDhhanc2NWozeHExODVwZ3JiYzk0bWdzdjZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAWzu5Tx3ukB5s9hdj/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a B.S. in Computer Science and Technology student, currently in my sophomore year. I’m interested in building meaningful technology, with a strong focus on mobile application development and interactive experiences.
 
@@ -59,3 +59,10 @@ I’m currently developing apps for iOS, and my next goal is to expand into Andr
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+#### Other
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
